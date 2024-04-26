@@ -1,6 +1,6 @@
-# Docking MIT Fullstack Application
+#Docking Fullstack
 
-## Requirements
+# Requirements
 
 - [x] User can create an account with an email address and password input field
 - [x] User receives a success message after creating an account
